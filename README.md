@@ -200,7 +200,7 @@ predicted:  very negative
 actual:  1
 
 ````
-## Part 2
+## Part 2:
 Task was to train model we wrote in the class on the following two datasets taken from https://kili-technology.com/blog/chatbot-training-datasets/
 1) http://www.cs.cmu.edu/~ark/QA-data/ 
 2) https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs
